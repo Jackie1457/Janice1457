@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Janice1457/Janice1457** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+###
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Siyuan Chen</h1>
 
@@ -47,5 +42,5 @@ Here are some ideas to get you started:
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://github.com/Janice1457/Janice1457.git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/janice-chen-csy1457/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+<p><a href="https://github.com/Janice1457/Janice1457.git" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Siyuan.Github-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://www.linkedin.com/in/janice-chen-csy1457/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
