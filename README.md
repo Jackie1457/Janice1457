@@ -5,13 +5,11 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
-
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently a gradute student from Northeastern University majoring in Computer Science.
 
 - 🤔 I’m looking for software internships and co-op opportunities!
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 I’m looking to collaborate for `Software Projects`
 
 - 👨‍💻 Learn new tech :fire: and develop better products :tada:
 
