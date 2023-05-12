@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Siyuan Chen</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Janice Chen</h1>
 <div align=center><img src="https://user-images.githubusercontent.com/95588190/161447888-432ebffd-d664-4496-9bb3-52a040014e8f.jpeg" width="1200px"></div>
 
 ## 👨🏻‍💻 About Me:
