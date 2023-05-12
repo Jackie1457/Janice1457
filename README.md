@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently a gradute student from Northeastern University majoring in Computer Science.
 
-- 🤔 I’m looking for software internships and co-op opportunities!
+- 🤔 I’m looking for software full-time opportunities!
 
 - 👯 I’m looking to collaborate for `Software Projects`
 
