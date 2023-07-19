@@ -1,11 +1,11 @@
 ###
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Janice Chen</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jackie Chen</h1>
 <div align=center><img src="https://user-images.githubusercontent.com/95588190/161447888-432ebffd-d664-4496-9bb3-52a040014e8f.jpeg" width="1200px"></div>
 
 ## 👨🏻‍💻 About Me:
 
-- 🔭 I’m currently a gradute student from Northeastern University majoring in Computer Science.
+- 🔭 I’m currently a graduate student at Northeastern University majoring in Computer Science.
 
 - 🤔 I’m looking for software full-time opportunities!
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 Learn new tech :fire: and develop better products :tada:
 
-- 📫 How to reach me: mariah1457@hotmail.com
+- 📫 How to reach me: siyuan1457@gmail.com
 
 ## 🛠️ Technologies and Tools I use:
 
